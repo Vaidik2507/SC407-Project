@@ -19,11 +19,13 @@ Implementing the Toll Tax Management System:
 Emission Tax Calculation ->
 1. Incentivizing Eco-friendly Behavior - The proposed system introduces an emission tax that is calculated based on the carbon emissions produced by a vehicle during a particular trip.Financial Incentive: By adding this emission tax to the regular toll tax, vehicles that produce higher carbon emissions during a trip will be charged a higher overall toll, creating a financial incentive for drivers to adopt eco-friendly driving practices.
 2. Financial Incentive - By adding this emission tax to the regular toll tax, vehicles that produce higher carbon emissions during a trip will be charged a higher overall toll, creating a financial incentive for drivers to adopt eco-friendly driving practices.
-
 Dynamic Toll Tax Adjustment ->
 1. Real-time Calculation - The emission tax amount is dynamically adjusted based on vehicle emissions, aiming to encourage low-emission vehicles and discourage high-emission ones.
 2. Financial Motivation - The system creates a financial motivation for individuals to opt for lower-emission transportation choices, promoting immediate emission reductions and driving long-term behavioral changes.
 
+Numerical Results and Validation:
+Emissions Estimates - The algorithm generated emissions estimates ranging from 170-230 grams per kilometer, offering a refinement due to their basis on real-time engine and vehicle parameters.
+Validation - The robustness and reliability of the algorithm underscore its potential for accurately estimating emissions from vehicles across diverse driving conditions and vehicle types..
 
 Future Scope and Conclusion:
 Future Development - Further research and development are necessary to address potential challenges and enhance the system's accuracy and effectiveness.
