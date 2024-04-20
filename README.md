@@ -13,7 +13,7 @@ Lack of Understanding - Despite increasing global awareness, there remains a sig
 Empowering Drivers - Feedback from OBD-II sensors aims to empower drivers with insights for improvement, enhancing environmental consciousness.
 
 Proposed Approach:
-To see the implementation of our algorithm used, refer to the following link - 
+To see the implementation of our algorithm used, refer to the following link - https://colab.research.google.com/drive/1Y3YCOVdChCsyMJ9VDSFfxug43y9z_h-Z?usp=sharing
 
 Implementing the Toll Tax Management System:
 Emission Tax Calculation ->
